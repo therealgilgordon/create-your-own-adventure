@@ -32,4 +32,4 @@ Se você fala português, [entre aqui](portugues/colaborando.md)
 
 日本語を使う人は、[ここ](japanese/chasitsu.md)に行ってください。
 
-    אם אתה מדבר עברית (hebrew/marshmallow.md)[לך כאן] 
+    אם אתה מדבר עברית [go here](hebrew/marshmallow.md)
